@@ -75,3 +75,5 @@ baratas e vender quando estiverem mais caras.
 2.8 - Sair:
 > Quando o usuário desejar fechar o programa, apenas digite “8” no menu de investidor que 
 o programa será fechado.
+
+[Projeto Finalizado.zip](https://github.com/user-attachments/files/15849495/Projeto.Finalizado.zip)
