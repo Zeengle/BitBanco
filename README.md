@@ -1,5 +1,5 @@
 # BitBanco
-Projeto de pyhon para a criação de um banco ficticio de compra de criptomoedas
+Projeto de pyhon para a criação de um banco fictício de compra e venda de criptomoedas
 
 CC1612 - FUNDAMENTOS DE ALGORITMOS
 Projeto de fundamentos de algoritmos: Documentação (Manual de 
